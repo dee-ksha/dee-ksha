@@ -4,8 +4,6 @@
 
 - 🌱 I’m currently learning **React.js and node.js**
 
-- 📝 Check my blogs out at : [https://dev.to/deeksha_51](https://dev.to/deeksha_51)
-
 - 📫 Reach out to me at **dikshabh08@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
