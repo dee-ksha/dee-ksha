@@ -1,7 +1,7 @@
 ![image](https://user-images.githubusercontent.com/77492052/153595556-4c8ea5e8-73ca-4524-bfa6-b7583fb89727.png)
 
 <h1 align="center">Hi 👋, I'm Diksha Bhardwaj</h1>
-<h3 align="center">A girl who likes to code and explore new technologies.</h3>
+<h3 align="center">Someone who likes to code and explore new technologies.</h3>
 <h3 align="center">I am a Microsoft Learn Student Ambassador (Alpha)</h3>
 
 - 🌱 I’m currently learning **React.js and node.js**
